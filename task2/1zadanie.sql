@@ -1,0 +1,1 @@
+SELECT release_year FROM film WHERE release_year < 1980;
